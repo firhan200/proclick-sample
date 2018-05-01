@@ -105,6 +105,9 @@
     margin-top:-5px;
     font-size:14pt;
 }
+.pad{
+    padding:10px;
+}
 
 .help{
     font-size:10pt;
@@ -112,6 +115,7 @@
 }
 
 .footer{
+    margin-top:50px;
     background-color:#e6e6e6;
     height:200px;
 }
@@ -129,4 +133,15 @@
 .post-footer a{
     color:#f2f2f2;
     font-size:18pt;
+}
+
+.stock .title{
+    color:yellow;
+    font-size:12pt;
+    font-weight:bold;
+}
+
+.stock p {
+    font-size:10pt;
+    color:#f2f2f2;
 }
